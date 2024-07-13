@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -142,4 +145,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
