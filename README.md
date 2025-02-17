@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1803-average-waiting-time) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
