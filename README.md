@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
