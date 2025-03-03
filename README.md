@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
@@ -107,10 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2846-robot-collisions) |
@@ -135,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2645-pass-the-pillow) |
 ## Recursion
@@ -164,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2306-create-binary-tree-from-descriptions](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/say2omprakash01/LeetHub_LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
